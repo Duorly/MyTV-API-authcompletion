@@ -51,7 +51,7 @@ Route::apiResources([
     'catPodcats' =>   PodcastController::class,
     'catRadios'  =>   RadiosCotroller::class,
     'genres'     =>   GenresController::class,
-    'sliders'    =>   SliderCotroller::class,
+    'sliders'    =>   SliderController::class,
     'series'     =>   SeriesController::class,
     'seasons'    =>   SaisonController::class,
     'episodes'   =>   EpisodesController::class,
